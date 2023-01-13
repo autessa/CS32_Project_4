@@ -1,0 +1,58 @@
+Shreya Arvind
+sgArvind.23@gmail.com
+7
+job,data scientist
+hobby,cooking
+hobby,singing
+hobby,eating hair
+trait,tall
+trait,vegan
+trait,funny 
+
+Sarah Pulliam
+3sarah.E.pull@aol.com
+5
+job,physical therapist
+hobby,baking
+hobby,reading
+trait,intelligent
+trait,yummy hair
+
+Oscar Escobar
+osc-esc.14@hotmail.com
+6
+job,doctor
+hobby,eating
+hobby,playing guitar
+hobby,skateboarding
+trait,tall
+trait,brunette
+
+Dylan Windell
+dylPickle20!@aol.com
+6
+job,chef
+hobby,sports
+hobby,writing
+hobby,school
+trait,gorgeous
+trait,good hair
+
+Joe Mama
+O7mama@aol.com
+4
+job,professor
+hobby,dog sitting
+hobby,reading
+trait,tall
+
+Kipper deDawg
+sipkip32@gmail.com
+7
+job,dog
+hobby,chewing
+hobby,eating
+hobby,fetch
+trait,pretty
+trait,genius
+trait,naughty

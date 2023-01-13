@@ -1,0 +1,64 @@
+trait,naughty,hobby,skateboarding
+trait,genius,trait,intelligent
+trait,pretty,trait,gorgeous
+hobby,fetch,hobby,dog sitting
+hobby,chewing,trait,yummy hair
+job,dog,hobby,dog sitting
+hobby,dog sitting,job,dog
+hobby,dog sitting,hobby,fetch
+job,professor,hobby,school
+job,professor,hobby,reading
+job,professor,hobby,writing
+trait,good hair,trait,yummy hair
+trait,gorgeous,trait,pretty
+hobby,school,hobby,reading
+hobby,school,job,professor
+hobby,school,trait,intelligent
+hobby,writing,hobby,reading
+hobby,writing,trait,intelligent
+hobby,writing,job,professor
+hobby,sports,job,physical therapist
+hobby,sports,hobby,skateboarding
+job,chef,hobby,eating
+job,chef,hobby,cooking
+job,chef,hobby,baking
+job,chef,trait,vegan
+trait,brunette,hobby,eating hair
+hobby,skateboarding,hobby,sports
+hobby,playing guitar,hobby,singing
+hobby,eating,hobby,cooking
+hobby,eating,hobby,baking
+hobby,eating,job,chef
+hobby,eating,hobby,eating
+job,doctor,job,physical therapist
+job,doctor,job,data scientist
+trait,yummy hair,trait,brunette
+trait,yummy hair,trait,good hair
+trait,intelligent,hobby,school
+trait,intelligent,job,professor
+trait,intelligent,trait,genius
+job,data scientist,trait,intelligent
+job,data scientist,job,professor
+job,data scientist,hobby,school
+hobby,cooking,hobby,baking
+hobby,cooking,hobby,eating
+hobby,cooking,job,chef
+hobby,singing,hobby,playing guitar
+hobby,eating hair,trait,yummy hair
+hobby,eating hair,trait,brunette
+trait,tall,trait,tall
+trait,vegan,hobby,eating
+trait,vegan,job,chef
+trait,vegan,hobby,cooking
+trait,funny,trait,genius
+job,physical therapist,hobby,skateboarding
+job,physical therapist,hobby,sports
+job,physical therapist,hobby,fetch
+hobby,baking,hobby,cooking
+hobby,baking,hobby,eating
+hobby,baking,job,chef
+hobby,reading,hobby,writing
+hobby,reading,hobby,school
+hobby,reading,job,professor
+hobby,reading,hobby,reading
+hobby,reading,trait,intelligent
